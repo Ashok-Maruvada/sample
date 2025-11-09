@@ -4,4 +4,4 @@ child=3
 adult=4
 baby=5
 cousin=5.5
-brother=7
+brother=6
