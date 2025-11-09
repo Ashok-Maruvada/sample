@@ -1,0 +1,5 @@
+men=1
+women=2
+child=3
+adult=4
+baby=5
