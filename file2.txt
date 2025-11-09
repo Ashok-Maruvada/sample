@@ -3,4 +3,5 @@ women=2
 child=3
 adult=4
 baby=5
-cousin=6
+cousin=5.5
+brother=7
